@@ -1,0 +1,68 @@
+Blood-bank name: meaningfull
+meaningless
+
+State:Linguistic Terms: Northern, Southern, Eastern, Western
+Membership Functions: Triangular
+
+City:Rural
+Suburban
+Urban
+
+Address:Low Specificity (LS)
+Medium Specificity (MS)
+High Specificity (HS)
+
+Pincode:
+
+Length: Very Short (4 digits), Short (5 digits), Medium (6 digits), Long (7 digits)
+Format: Numeric
+Contact Number, Mobile Number:
+
+Length: Very Short (less than 8 digits), Short (8-10 digits), Medium (11-12 digits), Long (more than 12 digits)
+Format: Numeric, Starts with Country Code (+), Contains Special Characters (-)
+Helpline, Fax:
+
+Presence: Yes, No
+Length: Short (up to 10 digits), Medium (11-15 digits), Long (more than 15 digits)
+Format: Numeric, Contains Special Characters (-)
+Email:
+
+Presence: Yes, No
+Format: Valid Email Address (contains '@' and '.')
+Nodal Officer, Contact Nodal Officer, Mobile Nodal Officer:
+
+Presence: Yes, No
+Format: Name, Combination of Name and Designation
+Email Nodal Officer:
+
+Presence: Yes, No
+Format: Valid Email Address
+Qualification Nodal Officer:
+
+Presence: Yes, No
+Format: Textual description (e.g., Doctor, Specialist)
+Category:
+
+Presence: Yes, No
+Format: Predefined list of categories (e.g., Blood Bank, Hospital)
+Blood Component Available:
+
+Presence: Yes, No
+Format: Predefined list of blood components (e.g., Red Blood Cells, Plasma)
+Apheresis:
+
+Presence: Yes, No
+Format: Binary (Yes/No)
+License #:
+
+Presence: Yes, No
+Format: Alphanumeric, Specific format depending on issuing authority
+Date License Obtained, Date of Renewal:
+
+Presence: Yes, No
+Format: Date (specific format, e.g., DD/MM/YYYY)
+Latitude, Longitude:
+
+Presence: Yes, No
+Format: Numeric, Specific range depending on location
+

@@ -1,0 +1,11 @@
+Attaullah H, Anjum A, Kanwal T, Malik SUR, Asheralieva A, Malik H, Zoha A, Arshad K, Imran MA. F-Classify: Fuzzy Rule Based Classification Method for Privacy Preservation of Multiple Sensitive Attributes. Sensors. 2021; 21(14):4933. https://doi.org/10.3390/s21144933
+
+Devlin J, Chang MW, Lee K, Toutanova K. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv.org. Published October 11, 2018. https://arxiv.org/abs/1810.04805
+
+Truong A, Walters A, Goodsitt J. Sensitive Data Detection with High-Throughput Neural Network Models for Financial Institutions. arXiv.org. doi:https://doi.org/10.48550/arXiv.2012.09597
+
+
+Guo Y, Liu J, Tang W, Huang C. Exsense: Extract sensitive information from unstructured data. Computers & Security. 2021;102:102156. doi:https://doi.org/10.1016/j.cose.2020.102156
+
+
+Mehdi OA, Ibrahim H, Affendey LS. Instance based Matching using Regular Expression. Procedia Computer Science. 2012;10:688-695. doi:https://doi.org/10.1016/j.procs.2012.06.088
